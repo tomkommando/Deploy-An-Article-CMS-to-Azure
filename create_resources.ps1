@@ -1,7 +1,5 @@
-# firstly login
 az login
 
-# create resource group
 az group create --name article_rg --location australiaeast
 
 az sql server create `

@@ -1,5 +1,5 @@
 # rename config example.py and add your own values.
-config.py 
+config.py
 
 *.azure/
 
@@ -130,5 +130,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/settings.json
-
-
