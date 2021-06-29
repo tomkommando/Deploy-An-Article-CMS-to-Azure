@@ -10,4 +10,4 @@
 
 ### Assess app changes that would change your decision.
 
-If the app would start to attract lots of traffic and would have to start dealing with very complex and heavyweight workloads.
+VM would become a better option, if the app would start to attract significantly more traffic or we decided to implement complex and heavyweight workloads. Also, in case of dealing with sensitive information such as user data we could switch to VM infrastructure to cater for increased security needs.
